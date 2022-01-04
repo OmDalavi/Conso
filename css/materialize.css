@@ -3706,7 +3706,9 @@ nav ul a span.badge {
 }
 
 .btn:hover, .btn-large:hover {
-  background-color: #2bbbad;
+  background-color: #000000;
+  color:#fff;
+  border-color:#fff !important;
 }
 
 .btn-floating {
